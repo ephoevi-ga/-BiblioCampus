@@ -28,4 +28,5 @@ while True:
             print("Impossible.")
     elif choix == "4":
         stats.afficher_statistiques()
-    
+    elif choix == "5" :
+        break
